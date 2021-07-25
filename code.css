@@ -1,0 +1,45 @@
+div.palind{
+    text-align: center;
+    font-size: 30px;
+
+    text-transform: uppercase;
+    
+}
+div.palind1{
+    text-align: center;
+    font-size: 25px;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color:goldenrod;
+    height:200px;
+    width: 80%;
+    
+
+}
+div.palind2{
+    
+    text-align: center;
+    font-size: 28px;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color:whitesmoke;
+    height: 100px;
+
+    
+}
+body{
+    background-color: grey;
+   
+}
+.mytext{
+width: 400px;
+height: 50px;
+font-size: 30px;
+}
+div.palind3{
+    text-align: center;
+    font-size: 10px;
+
+    text-transform: uppercase;
+    
+}
